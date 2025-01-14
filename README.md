@@ -63,7 +63,3 @@ Collaborative project for game security analysis.
 ### ✨ Let's Build Something Cool Together!
 
 If you're looking for a passionate developer or have an interesting project idea, feel free to reach out. I love learning and working on challenging projects that make an impact!
-
----
-
-This README integrates profile statistics, links to your projects, and fun elements like developer humor. Replace placeholders (e.g., `YourUsername`, `YourHandle`, etc.) with your actual details to personalize it. Let me know if you'd like to tweak anything!
